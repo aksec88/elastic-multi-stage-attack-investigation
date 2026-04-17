@@ -1,4 +1,4 @@
-# Elastic SIEM — Brute Force to C2 Compromise
+# Elastic SIEM — Multi-Stage Attack Investigation
 
 End-to-end SOC investigation of real and simulated attacks using the Elastic Stack across a cloud-based lab environment.
 
