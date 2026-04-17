@@ -27,9 +27,9 @@ The investigation covered multiple attack scenarios, including SSH and RDP brute
 
 ## Architecture
 
-Cloud-based SOC environment integrating SIEM, endpoint telemetry, network monitoring, adversary simulation, and ticketing.
+Cloud-based SOC environment integrating SIEM, endpoint telemetry, network monitoring, adversary simulation, and ticketing to enable centralized logging, detection, and incident investigation across Windows and Linux systems.
 
-![Architecture](screenshots/architecture_diagram.png)
+![Architecture](screenshots/elastic-siem-architecture-diagram.png)
 
 ---
 
